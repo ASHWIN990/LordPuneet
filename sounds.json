@@ -1,0 +1,58 @@
+{
+  "sounds": [{
+      "name": "Bekar hai bhaiya mai to toot gaya",
+      "color": "#339900",
+      "mp3": "sounds/bekar-hai-bhaiya-mai-to-toot-gaya.mp3"
+    },
+    {
+      "name": "Chor diya maine logo ko disturb karna",
+      "color": "#339900",
+      "mp3": "sounds/chor-diya-maine-message-karke-logo-ko-disturb-karna.mp3"
+    },
+    {
+      "name": "Lord Puneet Roarrrr",
+      "color": "#339900",
+      "mp3": "sounds/indian-man-screaming-on-a-bike.mp3"
+    },
+    {
+      "name": "Mai inn bhagwan ko maanta hoon",
+      "color": "#339900",
+      "mp3": "sounds/mai-inn-bhagwan-ko-maanta-hoon.mp3"
+    },
+    {
+      "name": "Nahi milega koi mere jaisa jao aajma lo",
+      "color": "#339900",
+      "mp3": "sounds/Nahi-milega-koi-mere-jaisa-jao-aajma-lo.mp3"
+    },
+    {
+      "name": "Puneet kumar atcha",
+      "color": "#339900",
+      "mp3": "sounds/puneet-kumar-atcha.mp3"
+    },
+    {
+      "name": "Puneet Superstar Chai Mein Malai",
+      "color": "#339900",
+      "mp3": "sounds/Puneet-Superstar-Chai-Mein-Malai.mp3"
+    },
+    {
+      "name": "Puneet Superstar drinking tea",
+      "color": "#339900",
+      "mp3": "sounds/Puneet-Superstar-drinking-tea.mp3"
+    },
+    {
+      "name": "Sidha kar right kar neeche kar upar kar",
+      "color": "#339900",
+      "mp3": "sounds/sidha-kar-right-kar-neeche-kar-upar-kar.mp3"
+    },
+    {
+      "name": "Tu rokega mere ko",
+      "color": "#339900",
+      "mp3": "sounds/Tu-rokega-mere-ko-puneet-superstar.mp3"
+    },
+    {
+      "name": "usse mera kya faiyda",
+      "color": "#339900",
+      "mp3": "sounds/usse-mera-kya-faiyda.mp3"
+    }
+  ]
+}
