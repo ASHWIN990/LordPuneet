@@ -13,23 +13,16 @@
     <meta name="description" content="A collection of sounds of Punnet Superstar to play and annoy someone" />
     <meta name="robots" content="index, follow" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="manifest" href="./manifest.json" />
+    <!-- <link rel="manifest" href="./manifest.json" /> -->
     <link rel="stylesheet" href="css/spinner.css" />
-    <script>
-        if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("/sw.js").then(function (registration) {
-                console.log("Service worker registered:", registration);
-            }).catch(function (error) {
-                console.log("Service worker registration failed:", error);
-            });
-        }
-    </script>
+
 </head>
 
 <body>
     <h1>Lord Puneet Superstar Online Soundboard</h1>
-    <h2> Just click on the buttons to play the sound.<hr><br />
-        <!-- <a href="">Click here to submit a sound to be added!</a><br /> </h2> -->
+    <h2> Just click on the buttons to play the sound.</h2>
+    <hr><br/>
+    <!-- <a href="">Click here to submit a sound to be added!</a><br /> </h2> -->
     <div class="control"> Audio Controls <button class="woah" onclick="javascript:playAll()">Provoke Chaos</button>
         <button class="woah" onclick="javascript:stopAll()">Stop Everything</button> </div>
     <div class="soundboard-container">
